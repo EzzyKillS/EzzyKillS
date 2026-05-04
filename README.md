@@ -7,7 +7,7 @@
 ---
 
 ### 🛡️ About Me
-I treat code like a high-tier trade-up: it requires precision, patience, and a solid strategy. As a CS student, I’m obsessed with full-stack performance and real-time data visualization. Currently iterating on Node.js scrapers and native Android providers to turn volatile CS2 market trends into the clean graphs you see in **EzzyTracker**.
+I treat code like a high-tier trade-up: it requires precision, patience, and a solid strategy. As a CS student, I’m obsessed with full-stack performance and real-time data visualization. Currently iterating on Node.js scrapers and native Android providers to turn volatile CS2 market trends into the clean graphs you will see in **EzzyTracker**.
 
 - 🔭 **Current Focus:** perfecting the EzzyTracker mobile experience.
 - ⚡ **Vibe:** "Everything is functional until it isn't."
