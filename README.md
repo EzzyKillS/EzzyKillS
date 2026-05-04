@@ -7,9 +7,10 @@
 ---
 
 ### 🛡️ About Me
-I treat code like a high-tier trade-up: it requires precision, patience, and a solid strategy. As a CS student, I’m obsessed with full-stack performance and real-time data visualization. Currently iterating on Node.js scrapers and native Android providers to turn volatile CS2 market trends into the clean graphs you will see in **EzzyTracker**.
-
-- 🔭 **Current Focus:** perfecting the EzzyTracker mobile experience.
+Computer Science student. When I'm not optimizing Node.js backends or refining native flutter frontend, I'm usually grinding in CS2 or playing around with friends.
+I treat code like the market: it requires precision and a solid strategy. I'm currently building **EzzyTracker** to bring professional-grade analytics to the trading community through a mobile-first approach.
+- 🚀 Next Milestone: Steam OpenID/Auth integration.
+- 📈 Activity: My contribution graph tells the story my private repos can't.
 - ⚡ **Vibe:** "Everything is functional until it isn't."
 - 🛠️ **Favorite Tools:** Antigravity IDE & VS Code (heavily modded).
 
@@ -21,10 +22,9 @@ I treat code like a high-tier trade-up: it requires precision, patience, and a s
 **Overall Development Progress**
 `███████████████▒▒▒▒` 75%
 - [x] PostgreSQL Database Architecture
-- [x] 6-Hour Resolution Data Bucketing
-- [x] Spiky "Zero-Gap" Native Widget Drawing
+- [x] tracker for items and inventory value
+- [x] Native Widget
 - [ ] Steam Auth (OpenID) Integration (🚧 UP NEXT)
-- [ ] Multi-Account Inventory Scanning
 
 ---
 
@@ -56,6 +56,9 @@ I treat code like a high-tier trade-up: it requires precision, patience, and a s
   </a>
     <a href="https://steamcommunity.com/id/EzzyKillS" target="_blank">
     <img src="https://img.shields.io/badge/Steam-%231b2838.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+  </a>
+    <a href="https://csrep.gg/player/76561199475022269" target="_blank">
+    <img src="https://csrep.gg/assets/logo.webp" height="28" alt="CSRep" style="vertical-align:middle; margin-left: 4px;" />
   </a>
 </p>
 
