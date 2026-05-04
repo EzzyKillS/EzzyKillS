@@ -24,7 +24,7 @@ I treat code like the market: it requires precision and a solid strategy. I'm cu
 - [x] PostgreSQL Database Architecture
 - [x] tracker for items and inventory value
 - [x] Native Widget
-- [ ] rewriting entire (🚧 RIGHT NOW)
+- [ ] rewriting entire code (🚧 RIGHT NOW)
 - [ ] Steam Auth (OpenID) Integration (🚧 UP NEXT) 
 
 ---
