@@ -20,12 +20,13 @@ I treat code like the market: it requires precision and a solid strategy. I'm cu
 > **The ultimate CS2 portfolio tracker with real-time "spiky" widget analytics.**
 
 **Overall Development Progress**
-`████████████▒▒▒▒▒▒▒` 60%
+`█████████████▒▒▒▒▒` 70%
 - [x] PostgreSQL Database Architecture
-- [x] tracker for items and inventory value
+- [x] Tracker for items and inventory value
 - [x] Native Widget
-- [ ] rewriting entire code (🚧 RIGHT NOW)
+- [x] Rewriting entire code for new API
 - [ ] Steam Auth (OpenID) Integration (🚧 UP NEXT) 
+- [ ] Bug fixing
 
 ---
 
