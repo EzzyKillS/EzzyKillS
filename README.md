@@ -30,10 +30,10 @@ I treat code like the market: it requires precision and a solid strategy. I'm bu
 - [x] Interactive portfolio & item price charts
 - [x] Android home screen widgets with live data
 - [x] Multi-currency support (USD, EUR, PLN, GBP, CNY)
+- [x] Rebuild of entire UI
 
 **🚧 Planned**
 - [ ] Steam Auth (OpenID) Integration
-- [ ] Rebuild of entire UI
 - [ ] Trade Profit Calculator
 - [ ] Bug fixing & polish
 
