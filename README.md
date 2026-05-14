@@ -33,6 +33,7 @@ I treat code like the market: it requires precision and a solid strategy. I'm bu
 
 **🚧 Planned**
 - [ ] Steam Auth (OpenID) Integration
+- [ ] Rebuild of entire UI
 - [ ] Trade Profit Calculator
 - [ ] Bug fixing & polish
 
