@@ -31,11 +31,14 @@ I treat code like the market: it requires precision and a solid strategy. I'm bu
 - [x] Android home screen widgets with live data
 - [x] Multi-currency support (USD, EUR, PLN, GBP, CNY)
 - [x] Rebuild of entire UI
-- [x] Rebuild of entire frontend structure
+- [x] Rebuild of frontend structure
+- [x] Rebuild of backend structure 
 
 **🚧 Planned**
 - [ ] Steam Auth (OpenID) Integration
-- [ ] Trade Profit Calculator
+- [ ] AI-Powered Market Forecasts & Investment Insights
+- [ ] Live Arbitrage & Deal Scanner
+- [ ] Advanced Portfolio Allocation & Risk Dashboard
 - [ ] Bug fixing & polish
 
 ---
