@@ -14,7 +14,7 @@ const IS_SEED = process.argv.includes('--seed');
 // Forks where EzzyKillS actively develops & maintains releases
 const INCLUDED_FORKS = new Set(['ValheimTooler']);
 
-// Non-programming / noisy markup languages excluded from language breakdown
+// Non-programming / noisy markup or legacy school languages excluded from language breakdown
 const IGNORED_LANGUAGES = new Set([
   'HTML',
   'CSS',
@@ -29,12 +29,19 @@ const IGNORED_LANGUAGES = new Set([
   'Dockerfile',
   'PowerShell',
   'Shell',
+  'Wolfram Language',
+  'Mathematica',
+  'MATLAB',
+  'PHP',
+  'Hack',
+  'Blade',
 ]);
 
 const LANGUAGE_ALIASES = {
   PLpgSQL: 'SQL',
   TSQL: 'SQL',
   PLSQL: 'SQL',
+  'ASP.NET': 'C#',
 };
 
 const LANGUAGE_COLORS = {
@@ -819,7 +826,7 @@ function renderInfographicSvg(m) {
     <text x="248" y="58">⚡ <tspan dx="4">${m.totalContributions} Total Contributions</tspan></text>
     <text x="248" y="80">📈 <tspan dx="4">${m.lastYearContributions} in Last 12 Months</tspan></text>
     <text x="248" y="104">🔀 <tspan dx="4">${m.prsAndIssues} Issues &amp; Pull Requests</tspan></text>
-    <text x="248" y="126">⭐ <tspan dx="4">${m.totalStars} Stargazers · ${m.totalForks} Active Fork</tspan></text>
+    <text x="248" y="126">⭐ <tspan dx="4">${m.totalStars} Stargazers · 🍴 ${m.totalForks + 1} Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
   </g>
 
