@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="206" viewBox="0 0 495 206" fill="none" role="img" aria-label="EzzyKillS/ValheimTooler Repository Card">
+  <defs>
+    <linearGradient id="repoBg_ValheimTooler" x1="0" y1="0" x2="495" y2="206" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#151924" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+  </style>
+
+  <rect x="1" y="1" width="493" height="204" rx="12" fill="url(#repoBg_ValheimTooler)" stroke="#242938" stroke-width="1.2" />
+
+  <!-- Repo Header -->
+  <text x="22" y="33" class="sans" font-size="15.5" font-weight="700" fill="#58A6FF">📓 <tspan dx="3" fill="#8B949E" font-weight="500">EzzyKillS /</tspan> ValheimTooler</text>
+  <rect x="352" y="17" width="121" height="22" rx="11" fill="#161B22" stroke="#3FB950" stroke-width="1" />
+  <text x="412.5" y="32" text-anchor="middle" class="mono" font-size="10" font-weight="700" fill="#3FB950">v1.11.1 · 1.0+</text>
+
+  <!-- Subtitle -->
+  <text x="22" y="55" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Valheim 1.0+ In-Game Trainer &amp; Runtime Mod Revival</text>
+
+  <!-- Description -->
+  <text x="22" y="76" class="sans" font-size="11.5" fill="#8B949E">Revived &amp; modernized in-game trainer for Valheim 1.0+. Fixed Mono reflection</text>
+  <text x="22" y="94" class="sans" font-size="11.5" fill="#8B949E">injector crashes, updated internal game API signatures &amp; BepInEx support.</text>
+
+  <!-- Feature Pills -->
+  
+    <rect x="22.0" y="110" width="31.6" height="20" rx="5" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="37.8" y="123.5" text-anchor="middle" class="mono" font-size="10" fill="#79C0FF">C#</text>
+    <rect x="61.6" y="110" width="92.8" height="20" rx="5" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="108.0" y="123.5" text-anchor="middle" class="mono" font-size="10" fill="#79C0FF">.NET / Mono</text>
+    <rect x="162.4" y="110" width="52.0" height="20" rx="5" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="188.4" y="123.5" text-anchor="middle" class="mono" font-size="10" fill="#79C0FF">Unity</text>
+    <rect x="222.4" y="110" width="86.0" height="20" rx="5" fill="#161B22" stroke="#30363D" stroke-width="1" />
+    <text x="265.4" y="123.5" text-anchor="middle" class="mono" font-size="10" fill="#79C0FF">HarmonyLib</text>
+
+  <!-- Language Bar -->
+  
+  <clipPath id="clip_ValheimTooler">
+    <rect x="22" y="144" width="451" height="7" rx="3.5" />
+  </clipPath>
+  <rect x="22" y="144" width="451" height="7" rx="3.5" fill="#161B22" />
+  <g clip-path="url(#clip_ValheimTooler)">
+    <rect x="22.0" y="144" width="448.3" height="7" fill="#239120" />
+    <rect x="470.3" y="144" width="4.0" height="7" fill="#3572A5" />
+    <rect x="474.3" y="144" width="2.0" height="7" fill="#58A6FF" />
+  </g>
+
+  <!-- Language Legend -->
+  
+    <circle cx="26" cy="166" r="4" fill="#239120" />
+    <text x="35" y="170" class="sans" font-size="11" fill="#C9D1D9">C# <tspan fill="#8B949E">99.4%</tspan></text>
+    <circle cx="106.4" cy="166" r="4" fill="#3572A5" />
+    <text x="115.4" y="170" class="sans" font-size="11" fill="#C9D1D9">Python <tspan fill="#8B949E">0.5%</tspan></text>
+    <circle cx="207.2" cy="166" r="4" fill="#58A6FF" />
+    <text x="216.2" y="170" class="sans" font-size="11" fill="#C9D1D9">PowerShell <tspan fill="#8B949E">0.1%</tspan></text>
+
+  <!-- Footer Metadata -->
+  <line x1="22" y1="180" x2="473" y2="180" stroke="#21262D" stroke-width="1" />
+  <text x="22" y="196" class="mono" font-size="10" fill="#8B949E">🏷️ Latest: v1.11.1 · 📥 8 Downloads</text>
+  <text x="473" y="196" text-anchor="end" class="mono" font-size="10" fill="#58A6FF">github.com/EzzyKillS/ValheimTooler →</text>
+</svg>

@@ -1,0 +1,47 @@
+name: Update Profile Metrics
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/generate-metrics.mjs'
+      - '.github/workflows/metrics.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  update-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Generate stats & language SVG cards
+        env:
+          GITHUB_USERNAME: EzzyKillS
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+        run: node scripts/generate-metrics.mjs
+
+      - name: Commit & push updated SVGs
+        run: |
+          if git diff --quiet assets/; then
+            echo "No changes in assets/*.svg"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "chore(metrics): update profile stats & language cards [skip ci]"
+          git pull --rebase origin main
+          git push
+

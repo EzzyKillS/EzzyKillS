@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="266" viewBox="0 0 900 266" fill="none" role="img" aria-label="EzzyKillS Tech Arsenal">
+  <defs>
+    <linearGradient id="techBg" x1="0" y1="0" x2="900" y2="266" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#11141E" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+  </style>
+
+  <rect x="1" y="1" width="898" height="264" rx="14" fill="url(#techBg)" stroke="#242938" stroke-width="1.2" />
+
+  <text x="22" y="32" class="sans" font-size="15.5" font-weight="700" fill="#58A6FF">🛠️ Tech Arsenal &amp; Engineering Domains</text>
+  <text x="878" y="32" text-anchor="end" class="mono" font-size="10.5" fill="#8B949E">Full-Stack · Mobile · Reverse Engineering</text>
+
+  
+    <rect x="20" y="52" width="422" height="100" rx="10" fill="#131621" stroke="#242938" stroke-width="1" />
+    <text x="34" y="74" class="sans" font-size="13" font-weight="700" fill="#00E5FF">⚡ Core Languages</text>
+    
+      <rect x="34" y="86" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="45" cy="98" r="4" fill="#00B4AB" />
+      <text x="55" y="101.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Dart</text>
+      <rect x="232" y="86" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="243" cy="98" r="4" fill="#239120" />
+      <text x="253" y="101.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">C# (.NET / Mono)</text>
+      <rect x="34" y="116" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="45" cy="128" r="4" fill="#F7DF1E" />
+      <text x="55" y="131.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">JavaScript / Node</text>
+      <rect x="232" y="116" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="243" cy="128" r="4" fill="#00599C" />
+      <text x="253" y="131.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">C++ &amp; Python</text>
+    <rect x="458" y="52" width="422" height="100" rx="10" fill="#131621" stroke="#242938" stroke-width="1" />
+    <text x="472" y="74" class="sans" font-size="13" font-weight="700" fill="#7AA2F7">📱 Full-Stack &amp; Mobile Engineering</text>
+    
+      <rect x="472" y="86" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="483" cy="98" r="4" fill="#02569B" />
+      <text x="493" y="101.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Flutter</text>
+      <rect x="670" y="86" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="681" cy="98" r="4" fill="#6DA55F" />
+      <text x="691" y="101.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Node.js &amp; Express</text>
+      <rect x="472" y="116" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="483" cy="128" r="4" fill="#66C0F4" />
+      <text x="493" y="131.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Steam OpenID &amp; APIs</text>
+      <rect x="670" y="116" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="681" cy="128" r="4" fill="#BB9AF7" />
+      <text x="691" y="131.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Real-Time Feeds</text>
+    <rect x="20" y="162" width="422" height="88" rx="10" fill="#131621" stroke="#242938" stroke-width="1" />
+    <text x="34" y="184" class="sans" font-size="13" font-weight="700" fill="#BB9AF7">🎮 Reverse Engineering &amp; Game Modding</text>
+    
+      <rect x="34" y="196" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="45" cy="208" r="4" fill="#E2E8F0" />
+      <text x="55" y="211.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Unity &amp; Mono Internals</text>
+      <rect x="232" y="196" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="243" cy="208" r="4" fill="#FF6F00" />
+      <text x="253" y="211.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">HarmonyLib &amp; BepInEx</text>
+      <rect x="34" y="226" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="45" cy="238" r="4" fill="#F7768E" />
+      <text x="55" y="241.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Memory Trainers</text>
+    <rect x="458" y="162" width="422" height="88" rx="10" fill="#131621" stroke="#242938" stroke-width="1" />
+    <text x="472" y="184" class="sans" font-size="13" font-weight="700" fill="#9ECE6A">🗄️ Data, Cloud &amp; Developer Workflow</text>
+    
+      <rect x="472" y="196" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="483" cy="208" r="4" fill="#336791" />
+      <text x="493" y="211.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">PostgreSQL</text>
+      <rect x="670" y="196" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="681" cy="208" r="4" fill="#FFCA28" />
+      <text x="691" y="211.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Firebase</text>
+      <rect x="472" y="226" width="190" height="24" rx="5" fill="#0D1117" stroke="#21262D" stroke-width="1" />
+      <circle cx="483" cy="238" r="4" fill="#F05032" />
+      <text x="493" y="241.5" class="sans" font-size="11" font-weight="700" fill="#F0F6FC">Git, Actions &amp; VS Code</text>
+</svg>
