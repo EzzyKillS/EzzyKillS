@@ -32,10 +32,10 @@
 
   <!-- Account Overview Right Sub-column -->
   <g class="sans" font-size="12" fill="#C9D1D9">
-    <text x="248" y="58">⚡ <tspan dx="4">357 Total Contributions</tspan></text>
-    <text x="248" y="80">📈 <tspan dx="4">341 in Last 12 Months</tspan></text>
+    <text x="248" y="58">⚡ <tspan dx="4">358 Total Contributions</tspan></text>
+    <text x="248" y="80">📈 <tspan dx="4">342 in Last 12 Months</tspan></text>
     <text x="248" y="104">🔀 <tspan dx="4">90 Issues &amp; Pull Requests</tspan></text>
-    <text x="248" y="126">⭐ <tspan dx="4">7 Stargazers · 0 Active Fork</tspan></text>
+    <text x="248" y="126">⭐ <tspan dx="4">7 Stargazers · 🍴 1 Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
   </g>
 
@@ -55,8 +55,8 @@
       <text x="47.4" y="312.7" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">2</text>
       <text x="47.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">01</text>
       <rect x="60.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="60.4" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
-      <text x="64.6" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">1</text>
+      <rect x="60.4" y="316.7" width="8.4" height="5.3" rx="2.5" fill="#0E4429" />
+      <text x="64.6" y="312.7" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">2</text>
       <text x="64.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">02</text>
       <rect x="77.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="77.6" y="320.0" width="8.4" height="2.0" rx="2.5" fill="#1F2335" />
@@ -168,26 +168,26 @@
       <text x="141.5" y="428.8" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">27</text>
       <text x="141.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Thu</text>
       <rect x="163" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="163" y="403.1" width="11" height="44.9" rx="3" fill="#39D353" />
-      <text x="168.5" y="399.1" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">80</text>
+      <rect x="163" y="402.5" width="11" height="45.5" rx="3" fill="#39D353" />
+      <text x="168.5" y="398.5" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">81</text>
       <text x="168.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Fri</text>
       <rect x="190" y="398" width="11" height="50" rx="3" fill="#131622" />
       <rect x="190" y="398.0" width="11" height="50.0" rx="3" fill="#39D353" />
       <text x="195.5" y="394.0" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">89</text>
       <text x="195.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Sat</text>
   
-      <text x="234" y="398" class="sans" font-size="10.5" fill="#A9B1D6">PHP</text>
+      <text x="234" y="398" class="sans" font-size="10.5" fill="#A9B1D6">C#</text>
       <rect x="298" y="390" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="390" width="31.2" height="6.5" rx="3" fill="#4F5D95" />
-      <text x="436" y="398" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">25%</text>
+      <rect x="298" y="390" width="46.1" height="6.5" rx="3" fill="#239120" />
+      <text x="436" y="398" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">37%</text>
       <text x="234" y="421" class="sans" font-size="10.5" fill="#A9B1D6">JavaScript</text>
       <rect x="298" y="413" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="413" width="25.7" height="6.5" rx="3" fill="#F7DF1E" />
-      <text x="436" y="421" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">21%</text>
+      <rect x="298" y="413" width="35.7" height="6.5" rx="3" fill="#F7DF1E" />
+      <text x="436" y="421" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">29%</text>
       <text x="234" y="444" class="sans" font-size="10.5" fill="#A9B1D6">Dart</text>
       <rect x="298" y="436" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="436" width="25.2" height="6.5" rx="3" fill="#00B4AB" />
-      <text x="436" y="444" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">20%</text>
+      <rect x="298" y="436" width="35.0" height="6.5" rx="3" fill="#00B4AB" />
+      <text x="436" y="444" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">28%</text>
 
   <line x1="24" y1="474" x2="438" y2="474" stroke="#21262D" stroke-width="1" />
 
@@ -240,7 +240,7 @@
   <g class="sans" font-size="12" fill="#C9D1D9">
     <text x="698" y="60">🔥 <tspan dx="4">Current streak: <tspan font-weight="700" fill="#39D353">1 day</tspan></tspan></text>
     <text x="698" y="82">🏆 <tspan dx="4">Best streak: <tspan font-weight="700" fill="#58A6FF">5 days</tspan></tspan></text>
-    <text x="698" y="104">📈 <tspan dx="4">~0.93 commits / day</tspan></text>
+    <text x="698" y="104">📈 <tspan dx="4">~0.94 commits / day</tspan></text>
   </g>
 
   <g>
@@ -438,7 +438,7 @@
     <polygon points="668.0,185.8 674.0,189.2 674.0,192.0 668.0,188.6" fill="#191D2B" /><polygon points="674.0,189.2 680.0,185.8 680.0,188.6 674.0,192.0" fill="#131722" /><polygon points="674.0,182.4 680.0,185.8 674.0,189.2 668.0,185.8" fill="#212636" />
     <polygon points="662.0,189.2 668.0,192.6 668.0,195.4 662.0,192.0" fill="#191D2B" /><polygon points="668.0,192.6 674.0,189.2 674.0,192.0 668.0,195.4" fill="#131722" /><polygon points="668.0,185.8 674.0,189.2 668.0,192.6 662.0,189.2" fill="#212636" />
     <polygon points="656.0,192.6 662.0,196.0 662.0,198.8 656.0,195.4" fill="#191D2B" /><polygon points="662.0,196.0 668.0,192.6 668.0,195.4 662.0,198.8" fill="#131722" /><polygon points="662.0,189.2 668.0,192.6 662.0,196.0 656.0,192.6" fill="#212636" />
-    <polygon points="650.0,185.9 656.0,189.3 656.0,202.2 650.0,198.8" fill="#005427" /><polygon points="656.0,189.3 662.0,185.9 662.0,198.8 656.0,202.2" fill="#003D1C" /><polygon points="656.0,182.5 662.0,185.9 656.0,189.3 650.0,185.9" fill="#006D32" />
+    <polygon points="650.0,183.8 656.0,187.2 656.0,202.2 650.0,198.8" fill="#005427" /><polygon points="656.0,187.2 662.0,183.8 662.0,198.8 656.0,202.2" fill="#003D1C" /><polygon points="656.0,180.4 662.0,183.8 656.0,187.2 650.0,183.8" fill="#006D32" />
     <polygon points="644.0,199.4 650.0,202.8 650.0,205.6 644.0,202.2" fill="#191D2B" /><polygon points="650.0,202.8 656.0,199.4 656.0,202.2 650.0,205.6" fill="#131722" /><polygon points="650.0,196.0 656.0,199.4 650.0,202.8 644.0,199.4" fill="#212636" />
   </g>
 
@@ -466,55 +466,55 @@
   </clipPath>
   <rect x="476" y="286" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#rLangClip)">
-    <rect x="476.0" y="286" width="104.6" height="10" fill="#4F5D95" />
-    <rect x="580.6" y="286" width="86.3" height="10" fill="#F7DF1E" />
-    <rect x="666.9" y="286" width="84.6" height="10" fill="#00B4AB" />
-    <rect x="751.5" y="286" width="74.3" height="10" fill="#239120" />
-    <rect x="825.7" y="286" width="37.1" height="10" fill="#9400ff" />
-    <rect x="862.9" y="286" width="11.1" height="10" fill="#dd1100" />
+    <rect x="476.0" y="286" width="148.2" height="10" fill="#239120" />
+    <rect x="624.2" y="286" width="114.9" height="10" fill="#F7DF1E" />
+    <rect x="739.1" y="286" width="112.6" height="10" fill="#00B4AB" />
+    <rect x="851.7" y="286" width="13.0" height="10" fill="#3178C6" />
+    <rect x="864.7" y="286" width="5.3" height="10" fill="#336791" />
+    <rect x="870.0" y="286" width="4.0" height="10" fill="#A97BFF" />
   </g>
   
     <g transform="translate(476, 320)">
-      <circle cx="5" cy="-4" r="4.5" fill="#4F5D95" />
-      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">PHP</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">512 kB · 25.1%</text>
+      <circle cx="5" cy="-4" r="4.5" fill="#239120" />
+      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">C#</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">545 kB · 37.2%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="48.3" height="4.5" rx="2.2" fill="#4F5D95" />
+      <rect x="0" y="7" width="71.3" height="4.5" rx="2.2" fill="#239120" />
     </g>
     <g transform="translate(680, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#F7DF1E" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">JavaScript</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">423 kB · 20.7%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">423 kB · 28.8%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="39.8" height="4.5" rx="2.2" fill="#F7DF1E" />
+      <rect x="0" y="7" width="55.3" height="4.5" rx="2.2" fill="#F7DF1E" />
     </g>
     <g transform="translate(476, 356)">
       <circle cx="5" cy="-4" r="4.5" fill="#00B4AB" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Dart</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">414 kB · 20.3%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">414 kB · 28.2%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="39.1" height="4.5" rx="2.2" fill="#00B4AB" />
+      <rect x="0" y="7" width="54.2" height="4.5" rx="2.2" fill="#00B4AB" />
     </g>
     <g transform="translate(680, 356)">
-      <circle cx="5" cy="-4" r="4.5" fill="#239120" />
-      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">C#</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">364 kB · 17.9%</text>
+      <circle cx="5" cy="-4" r="4.5" fill="#3178C6" />
+      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">TypeScript</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">48 kB · 3.2%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="34.3" height="4.5" rx="2.2" fill="#239120" />
+      <rect x="0" y="7" width="6.2" height="4.5" rx="2.2" fill="#3178C6" />
     </g>
     <g transform="translate(476, 392)">
-      <circle cx="5" cy="-4" r="4.5" fill="#9400ff" />
-      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">ASP.NET</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">182 kB · 8.9%</text>
+      <circle cx="5" cy="-4" r="4.5" fill="#336791" />
+      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">SQL</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">20 kB · 1.3%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="17.1" height="4.5" rx="2.2" fill="#9400ff" />
+      <rect x="0" y="7" width="4.0" height="4.5" rx="2.2" fill="#336791" />
     </g>
     <g transform="translate(680, 392)">
-      <circle cx="5" cy="-4" r="4.5" fill="#dd1100" />
-      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Wolfram Language</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">55 kB · 2.7%</text>
+      <circle cx="5" cy="-4" r="4.5" fill="#A97BFF" />
+      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Kotlin</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">15 kB · 1.0%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="5.1" height="4.5" rx="2.2" fill="#dd1100" />
+      <rect x="0" y="7" width="4.0" height="4.5" rx="2.2" fill="#A97BFF" />
     </g>
 
   <line x1="476" y1="442" x2="874" y2="442" stroke="#21262D" stroke-width="1" />
