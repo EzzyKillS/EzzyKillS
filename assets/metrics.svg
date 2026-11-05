@@ -35,7 +35,7 @@
     <text x="248" y="58">⚡ <tspan dx="4">371 Total Contributions</tspan></text>
     <text x="248" y="80">📈 <tspan dx="4">344 in Last 12 Months</tspan></text>
     <text x="248" y="104">🔀 <tspan dx="4">90 Issues &amp; Pull Requests</tspan></text>
-    <text x="248" y="126">⭐ <tspan dx="4">7 Stargazers · 🍴 1 Active Forks</tspan></text>
+    <text x="248" y="126">⭐ <tspan dx="4">8 Stargazers · 🍴 1 Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
   </g>
 
@@ -178,7 +178,7 @@
   
       <text x="234" y="398" class="sans" font-size="10.5" fill="#A9B1D6">C#</text>
       <rect x="298" y="390" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="390" width="41.6" height="6.5" rx="3" fill="#239120" />
+      <rect x="298" y="390" width="41.7" height="6.5" rx="3" fill="#239120" />
       <text x="436" y="398" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">34%</text>
       <text x="234" y="421" class="sans" font-size="10.5" fill="#A9B1D6">JavaScript</text>
       <rect x="298" y="413" width="124" height="6.5" rx="3" fill="#131622" />
@@ -466,10 +466,10 @@
   </clipPath>
   <rect x="476" y="286" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#rLangClip)">
-    <rect x="476.0" y="286" width="133.9" height="10" fill="#239120" />
-    <rect x="609.9" y="286" width="103.3" height="10" fill="#F7DF1E" />
-    <rect x="713.2" y="286" width="101.3" height="10" fill="#00B4AB" />
-    <rect x="814.4" y="286" width="51.2" height="10" fill="#3178C6" />
+    <rect x="476.0" y="286" width="134.0" height="10" fill="#239120" />
+    <rect x="610.0" y="286" width="103.3" height="10" fill="#F7DF1E" />
+    <rect x="713.3" y="286" width="101.2" height="10" fill="#00B4AB" />
+    <rect x="814.5" y="286" width="51.2" height="10" fill="#3178C6" />
     <rect x="865.6" y="286" width="4.8" height="10" fill="#336791" />
     <rect x="870.4" y="286" width="3.6" height="10" fill="#A97BFF" />
   </g>
@@ -477,9 +477,9 @@
     <g transform="translate(476, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#239120" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">C#</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">548 kB · 33.6%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">549 kB · 33.6%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="64.4" height="4.5" rx="2.2" fill="#239120" />
+      <rect x="0" y="7" width="64.5" height="4.5" rx="2.2" fill="#239120" />
     </g>
     <g transform="translate(680, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#F7DF1E" />
