@@ -24,7 +24,7 @@
   <!-- Account Overview Left Sub-column -->
   <g class="sans" font-size="12" fill="#C9D1D9">
     <text x="26" y="58">🕒 <tspan dx="4">Joined GitHub 6 years ago</tspan></text>
-    <text x="26" y="80">👥 <tspan dx="4">Followed by 3 users</tspan></text>
+    <text x="26" y="80">👥 <tspan dx="4">Followed by 2 users</tspan></text>
     <text x="26" y="104" fill="#58A6FF" font-weight="600">📦 <tspan dx="4">9 Repositories (Public &amp; Private)</tspan></text>
     <text x="26" y="126">🏷️ <tspan dx="4">7 Releases · 236 MB Storage</tspan></text>
     <text x="26" y="148">± <tspan dx="6" fill="#3FB950" font-weight="600">+266.7k added</tspan>, <tspan fill="#F85149" font-weight="600">-174.4k removed</tspan></text>
@@ -35,7 +35,7 @@
     <text x="248" y="58">⚡ <tspan dx="4">371 Total Contributions</tspan></text>
     <text x="248" y="80">📈 <tspan dx="4">344 in Last 12 Months</tspan></text>
     <text x="248" y="104">🔀 <tspan dx="4">90 Issues &amp; Pull Requests</tspan></text>
-    <text x="248" y="126">⭐ <tspan dx="4">8 Stargazers · 🍴 1 Active Forks</tspan></text>
+    <text x="248" y="126">⭐ <tspan dx="4">7 Stargazers · 🍴 1 Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
   </g>
 
