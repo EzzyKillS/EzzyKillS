@@ -559,57 +559,72 @@ function getCubeColors(count) {
     return { top: '#212636', left: '#191D2B', right: '#131722' };
   }
   if (count <= 2) {
-    return { top: '#0E4429', left: '#0A331F', right: '#072416' };
+    return { top: '#196127', left: '#12471D', right: '#0C3214' };
   }
   if (count <= 5) {
-    return { top: '#006D32', left: '#005427', right: '#003D1C' };
+    return { top: '#239A3B', left: '#1B772E', right: '#135420' };
   }
   if (count <= 8) {
-    return { top: '#26A641', left: '#1D8233', right: '#155E25' };
+    return { top: '#39D353', left: '#2CA642', right: '#1F7C31' };
   }
-  return { top: '#39D353', left: '#2BA640', right: '#1F7A2F' };
+  return { top: '#56F573', left: '#3EC458', right: '#2BA042' };
 }
 
 function renderIsometricCalendar(weeks, originX, originY) {
   const slice = weeks.slice(-28);
   const tw = 6.0;
   const th = 3.4;
-  const cubes = [];
 
+  // Flatten all contribution days so we can sort them from back to front (Painter's algorithm)
+  const items = [];
   for (let w = 0; w < slice.length; w++) {
     const days = slice[w].contributionDays || [];
     for (let d = 0; d < 7; d++) {
-      const count = days[d]?.contributionCount || 0;
-      const cx = originX + (w - d) * tw;
-      const cy = originY + (w + d) * th;
-      const h = count === 0 ? 2.8 : Math.min(28, 4.5 + count * 2.1);
-      const { top, left, right } = getCubeColors(count);
-
-      const topPts = [
-        `${cx.toFixed(1)},${(cy - th - h).toFixed(1)}`,
-        `${(cx + tw).toFixed(1)},${(cy - h).toFixed(1)}`,
-        `${cx.toFixed(1)},${(cy + th - h).toFixed(1)}`,
-        `${(cx - tw).toFixed(1)},${(cy - h).toFixed(1)}`,
-      ].join(' ');
-
-      const leftPts = [
-        `${(cx - tw).toFixed(1)},${(cy - h).toFixed(1)}`,
-        `${cx.toFixed(1)},${(cy + th - h).toFixed(1)}`,
-        `${cx.toFixed(1)},${(cy + th).toFixed(1)}`,
-        `${(cx - tw).toFixed(1)},${cy.toFixed(1)}`,
-      ].join(' ');
-
-      const rightPts = [
-        `${cx.toFixed(1)},${(cy + th - h).toFixed(1)}`,
-        `${(cx + tw).toFixed(1)},${(cy - h).toFixed(1)}`,
-        `${(cx + tw).toFixed(1)},${cy.toFixed(1)}`,
-        `${cx.toFixed(1)},${(cy + th).toFixed(1)}`,
-      ].join(' ');
-
-      cubes.push(
-        `<polygon points="${leftPts}" fill="${left}" /><polygon points="${rightPts}" fill="${right}" /><polygon points="${topPts}" fill="${top}" />`
-      );
+      items.push({
+        w,
+        d,
+        count: days[d]?.contributionCount || 0,
+      });
     }
+  }
+
+  // Back to front: depth is determined by (w + d)
+  items.sort((a, b) => (a.w + a.d) - (b.w + b.d) || a.w - b.w);
+
+  const cubes = [];
+
+  for (const { w, d, count } of items) {
+    const cx = originX + (w - d) * tw;
+    const cy = originY + (w + d) * th;
+    // Balanced height scaling: slim base tile when 0, capped at 16px so foreground pillars never swallow background rows
+    const h = count === 0 ? 1.6 : Math.min(16, 4.0 + count * 1.2);
+    const { top, left, right } = getCubeColors(count);
+
+    const topPts = [
+      `${cx.toFixed(1)},${(cy - th - h).toFixed(1)}`,
+      `${(cx + tw).toFixed(1)},${(cy - h).toFixed(1)}`,
+      `${cx.toFixed(1)},${(cy + th - h).toFixed(1)}`,
+      `${(cx - tw).toFixed(1)},${(cy - h).toFixed(1)}`,
+    ].join(' ');
+
+    const leftPts = [
+      `${(cx - tw).toFixed(1)},${(cy - h).toFixed(1)}`,
+      `${cx.toFixed(1)},${(cy + th - h).toFixed(1)}`,
+      `${cx.toFixed(1)},${(cy + th).toFixed(1)}`,
+      `${(cx - tw).toFixed(1)},${cy.toFixed(1)}`,
+    ].join(' ');
+
+    const rightPts = [
+      `${cx.toFixed(1)},${(cy + th - h).toFixed(1)}`,
+      `${(cx + tw).toFixed(1)},${(cy - h).toFixed(1)}`,
+      `${(cx + tw).toFixed(1)},${cy.toFixed(1)}`,
+      `${cx.toFixed(1)},${(cy + th).toFixed(1)}`,
+    ].join(' ');
+
+    // 0.5px dark border to cleanly separate touching blocks and prevent solid green blobs
+    cubes.push(
+      `<polygon points="${leftPts}" fill="${left}" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="${rightPts}" fill="${right}" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="${topPts}" fill="${top}" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />`
+    );
   }
 
   return cubes.join('\n    ');

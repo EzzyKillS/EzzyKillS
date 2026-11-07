@@ -38,8 +38,8 @@ jobs:
             echo "No changes in assets/*.svg"
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "EzzyKillS"
+          git config user.email "ezzykills@duck.com"
           git add assets/*.svg
           git commit -m "chore(metrics): update profile stats & language cards [skip ci]"
           git pull --rebase origin main
