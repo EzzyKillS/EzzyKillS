@@ -804,9 +804,9 @@ function renderInfographicSvg(m) {
   const avgPerDay = (m.lastYearContributions / 365).toFixed(2);
   const st = m.steam;
 
-  return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="676" viewBox="0 0 900 676" fill="none" role="img" aria-label="EzzyKillS GitHub Metrics Infographic">
+  return `<svg xmlns="http://www.w3.org/2000/svg" width="900" height="692" viewBox="0 0 900 692" fill="none" role="img" aria-label="EzzyKillS GitHub Metrics Infographic">
   <defs>
-    <linearGradient id="infoBg" x1="0" y1="0" x2="900" y2="676" gradientUnits="userSpaceOnUse">
+    <linearGradient id="infoBg" x1="0" y1="0" x2="900" y2="692" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#0D1117" />
       <stop offset="50%" stop-color="#131621" />
       <stop offset="100%" stop-color="#0D1117" />
@@ -819,7 +819,7 @@ function renderInfographicSvg(m) {
   </style>
 
   <!-- Main Card Frame -->
-  <rect x="1" y="1" width="898" height="674" rx="14" fill="url(#infoBg)" stroke="#242938" stroke-width="1.2" />
+  <rect x="1" y="1" width="898" height="690" rx="14" fill="url(#infoBg)" stroke="#242938" stroke-width="1.2" />
 
   <!-- ================= LEFT COLUMN ================= -->
   <!-- Base Header -->
@@ -901,7 +901,7 @@ function renderInfographicSvg(m) {
   <rect x="348" y="643" width="64" height="4.5" rx="2.2" fill="#BB9AF7" />
 
   <!-- Vertical Center Divider -->
-  <line x1="454" y1="20" x2="454" y2="658" stroke="#21262D" stroke-width="1" />
+  <line x1="454" y1="20" x2="454" y2="672" stroke="#21262D" stroke-width="1" />
 
   <!-- ================= RIGHT COLUMN ================= -->
   <!-- PLUGIN: Isometric commit calendar (isocalendar) -->
@@ -972,7 +972,7 @@ function renderInfographicSvg(m) {
   </g>
 
   <!-- Bottom Timestamp / Sync Note -->
-  <text x="476" y="654" class="mono" font-size="9.5" fill="#565F89">⚡ Powered by lowlighter/metrics layout · Auto-synced via GitHub GraphQL &amp; Steam Community XML</text>
+  <text x="476" y="670" class="mono" font-size="9.5" fill="#565F89">⚡ Powered by lowlighter/metrics layout · Auto-synced via GitHub GraphQL &amp; Steam Community XML</text>
 </svg>
 `;
 }
