@@ -83,27 +83,43 @@ function formatBytes(bytes) {
   return `${bytes} B`;
 }
 
-async function graphql(query, variables = {}) {
-  const res = await fetch('https://api.github.com/graphql', {
-    method: 'POST',
-    headers: {
-      Authorization: `Bearer ${TOKEN}`,
-      'Content-Type': 'application/json',
-      'User-Agent': `${USERNAME}-Profile-Metrics`,
-    },
-    body: JSON.stringify({ query, variables }),
-  });
+async function graphql(query, variables = {}, retries = 3) {
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch('https://api.github.com/graphql', {
+        method: 'POST',
+        headers: {
+          Authorization: `Bearer ${TOKEN}`,
+          'Content-Type': 'application/json',
+          'User-Agent': `${USERNAME}-Profile-Metrics`,
+        },
+        body: JSON.stringify({ query, variables }),
+      });
 
-  if (!res.ok) {
-    const text = await res.text();
-    throw new Error(`GitHub GraphQL HTTP ${res.status}: ${text}`);
-  }
+      if (!res.ok) {
+        const text = await res.text();
+        if ((res.status >= 500 || res.status === 429) && attempt < retries) {
+          console.warn(`GitHub GraphQL HTTP ${res.status}. Retrying (attempt ${attempt}/${retries})...`);
+          await new Promise((r) => setTimeout(r, attempt * 2000));
+          continue;
+        }
+        throw new Error(`GitHub GraphQL HTTP ${res.status}: ${text}`);
+      }
 
-  const json = await res.json();
-  if (json.errors?.length) {
-    throw new Error(`GitHub GraphQL error: ${json.errors.map((e) => e.message).join('; ')}`);
+      const json = await res.json();
+      if (json.errors?.length) {
+        throw new Error(`GitHub GraphQL error: ${json.errors.map((e) => e.message).join('; ')}`);
+      }
+      return json.data;
+    } catch (err) {
+      if (attempt < retries && !err.message.startsWith('GitHub GraphQL error:')) {
+        console.warn(`Network/GraphQL error: ${err.message}. Retrying (attempt ${attempt}/${retries})...`);
+        await new Promise((r) => setTimeout(r, attempt * 2000));
+        continue;
+      }
+      throw err;
+    }
   }
-  return json.data;
 }
 
 async function fetchSteamStats() {
