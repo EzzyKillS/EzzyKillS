@@ -27,13 +27,13 @@
     <text x="26" y="80">👥 <tspan dx="4">Followed by 2 users</tspan></text>
     <text x="26" y="104" fill="#58A6FF" font-weight="600">📦 <tspan dx="4">10 Repositories (Public &amp; Private)</tspan></text>
     <text x="26" y="126">🏷️ <tspan dx="4">12 Releases · 237 MB Storage</tspan></text>
-    <text x="26" y="148">± <tspan dx="6" fill="#3FB950" font-weight="600">+322.9k added</tspan>, <tspan fill="#F85149" font-weight="600">-192.7k removed</tspan></text>
+    <text x="26" y="148">± <tspan dx="6" fill="#3FB950" font-weight="600">+322.8k added</tspan>, <tspan fill="#F85149" font-weight="600">-192.7k removed</tspan></text>
   </g>
 
   <!-- Account Overview Right Sub-column -->
   <g class="sans" font-size="12" fill="#C9D1D9">
-    <text x="248" y="58">⚡ <tspan dx="4">693 Total Contributions</tspan></text>
-    <text x="248" y="80">📈 <tspan dx="4">666 in Last 12 Months</tspan></text>
+    <text x="248" y="58">⚡ <tspan dx="4">694 Total Contributions</tspan></text>
+    <text x="248" y="80">📈 <tspan dx="4">667 in Last 12 Months</tspan></text>
     <text x="248" y="104">🔀 <tspan dx="4">109 Issues &amp; Pull Requests</tspan></text>
     <text x="248" y="126">⭐ <tspan dx="4">6 Stargazers · 🍴 1 Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
@@ -95,8 +95,8 @@
       <text x="219.4" y="292.2" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">12</text>
       <text x="219.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">11</text>
       <rect x="232.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="232.4" y="302.7" width="8.4" height="19.3" rx="2.5" fill="#006D32" />
-      <text x="236.6" y="298.7" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">9</text>
+      <rect x="232.4" y="304.8" width="8.4" height="17.2" rx="2.5" fill="#006D32" />
+      <text x="236.6" y="300.8" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">8</text>
       <text x="236.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">12</text>
       <rect x="249.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="249.6" y="283.3" width="8.4" height="38.7" rx="2.5" fill="#26A641" />
@@ -123,8 +123,8 @@
       <text x="339.8" y="260.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">27</text>
       <text x="339.8" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">18</text>
       <rect x="352.8" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="352.8" y="291.9" width="8.4" height="30.1" rx="2.5" fill="#26A641" />
-      <text x="357.0" y="287.9" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">14</text>
+      <rect x="352.8" y="289.8" width="8.4" height="32.2" rx="2.5" fill="#26A641" />
+      <text x="357.0" y="285.8" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">15</text>
       <text x="357.0" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">19</text>
       <rect x="370.0" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="370.0" y="300.5" width="8.4" height="21.5" rx="2.5" fill="#006D32" />
@@ -164,8 +164,8 @@
       <text x="114.5" y="428.9" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">66</text>
       <text x="114.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Wed</text>
       <rect x="136" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="136" y="435.4" width="11" height="12.6" rx="3" fill="#006D32" />
-      <text x="141.5" y="431.4" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">55</text>
+      <rect x="136" y="435.2" width="11" height="12.8" rx="3" fill="#006D32" />
+      <text x="141.5" y="431.2" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">56</text>
       <text x="141.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Thu</text>
       <rect x="163" y="398" width="11" height="50" rx="3" fill="#131622" />
       <rect x="163" y="419.7" width="11" height="28.3" rx="3" fill="#26A641" />
@@ -240,7 +240,7 @@
   <g class="sans" font-size="12" fill="#C9D1D9">
     <text x="698" y="60">🔥 <tspan dx="4">Current streak: <tspan font-weight="700" fill="#39D353">11 days</tspan></tspan></text>
     <text x="698" y="82">🏆 <tspan dx="4">Best streak: <tspan font-weight="700" fill="#58A6FF">11 days</tspan></tspan></text>
-    <text x="698" y="104">📈 <tspan dx="4">~1.82 commits / day</tspan></text>
+    <text x="698" y="104">📈 <tspan dx="4">~1.83 commits / day</tspan></text>
   </g>
 
   <g>
@@ -436,7 +436,7 @@
     <polygon points="662.0,186.8 668.0,190.2 668.0,195.4 662.0,192.0" fill="#12471D" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="668.0,190.2 674.0,186.8 674.0,192.0 668.0,195.4" fill="#0C3214" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="668.0,183.4 674.0,186.8 668.0,190.2 662.0,186.8" fill="#196127" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
     <polygon points="632.0,193.8 638.0,197.2 638.0,198.8 632.0,195.4" fill="#191D2B" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="638.0,197.2 644.0,193.8 644.0,195.4 638.0,198.8" fill="#131722" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="638.0,190.4 644.0,193.8 638.0,197.2 632.0,193.8" fill="#212636" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
     <polygon points="644.0,179.4 650.0,182.8 650.0,198.8 644.0,195.4" fill="#3EC458" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="650.0,182.8 656.0,179.4 656.0,195.4 650.0,198.8" fill="#2BA042" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="650.0,176.0 656.0,179.4 650.0,182.8 644.0,179.4" fill="#56F573" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
-    <polygon points="656.0,189.0 662.0,192.4 662.0,198.8 656.0,195.4" fill="#12471D" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="662.0,192.4 668.0,189.0 668.0,195.4 662.0,198.8" fill="#0C3214" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="662.0,185.6 668.0,189.0 662.0,192.4 656.0,189.0" fill="#196127" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
+    <polygon points="656.0,187.8 662.0,191.2 662.0,198.8 656.0,195.4" fill="#1B772E" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="662.0,191.2 668.0,187.8 668.0,195.4 662.0,198.8" fill="#135420" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="662.0,184.4 668.0,187.8 662.0,191.2 656.0,187.8" fill="#239A3B" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
     <polygon points="638.0,182.8 644.0,186.2 644.0,202.2 638.0,198.8" fill="#3EC458" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="644.0,186.2 650.0,182.8 650.0,198.8 644.0,202.2" fill="#2BA042" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="644.0,179.4 650.0,182.8 644.0,186.2 638.0,182.8" fill="#56F573" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
     <polygon points="650.0,197.2 656.0,200.6 656.0,202.2 650.0,198.8" fill="#191D2B" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="656.0,200.6 662.0,197.2 662.0,198.8 656.0,202.2" fill="#131722" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="656.0,193.8 662.0,197.2 656.0,200.6 650.0,197.2" fill="#212636" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
     <polygon points="644.0,200.6 650.0,204.0 650.0,205.6 644.0,202.2" fill="#191D2B" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="650.0,204.0 656.0,200.6 656.0,202.2 650.0,205.6" fill="#131722" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" /><polygon points="650.0,197.2 656.0,200.6 650.0,204.0 644.0,200.6" fill="#212636" stroke="#0D1117" stroke-width="0.5" stroke-linejoin="round" />
