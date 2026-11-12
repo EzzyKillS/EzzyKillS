@@ -178,7 +178,7 @@
   
       <text x="234" y="398" class="sans" font-size="10.5" fill="#A9B1D6">TypeScript</text>
       <rect x="298" y="390" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="390" width="35.6" height="6.5" rx="3" fill="#3178C6" />
+      <rect x="298" y="390" width="35.5" height="6.5" rx="3" fill="#3178C6" />
       <text x="436" y="398" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">29%</text>
       <text x="234" y="421" class="sans" font-size="10.5" fill="#A9B1D6">JavaScript</text>
       <rect x="298" y="413" width="124" height="6.5" rx="3" fill="#131622" />
@@ -186,7 +186,7 @@
       <text x="436" y="421" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">27%</text>
       <text x="234" y="444" class="sans" font-size="10.5" fill="#A9B1D6">C#</text>
       <rect x="298" y="436" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="436" width="29.2" height="6.5" rx="3" fill="#239120" />
+      <rect x="298" y="436" width="29.3" height="6.5" rx="3" fill="#239120" />
       <text x="436" y="444" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">24%</text>
 
   <line x1="24" y1="474" x2="438" y2="474" stroke="#21262D" stroke-width="1" />
@@ -466,10 +466,10 @@
   </clipPath>
   <rect x="476" y="286" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#rLangClip)">
-    <rect x="476.0" y="286" width="115.1" height="10" fill="#3178C6" />
-    <rect x="591.1" y="286" width="107.4" height="10" fill="#F7DF1E" />
-    <rect x="698.5" y="286" width="94.3" height="10" fill="#239120" />
-    <rect x="792.9" y="286" width="74.8" height="10" fill="#00B4AB" />
+    <rect x="476.0" y="286" width="114.9" height="10" fill="#3178C6" />
+    <rect x="590.9" y="286" width="107.4" height="10" fill="#F7DF1E" />
+    <rect x="698.2" y="286" width="94.8" height="10" fill="#239120" />
+    <rect x="793.0" y="286" width="74.7" height="10" fill="#00B4AB" />
     <rect x="867.7" y="286" width="4.0" height="10" fill="#336791" />
     <rect x="871.7" y="286" width="2.3" height="10" fill="#DEA584" />
   </g>
@@ -477,30 +477,30 @@
     <g transform="translate(476, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#3178C6" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">TypeScript</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">669 kB · 28.7%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">669 kB · 28.6%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="55.1" height="4.5" rx="2.2" fill="#3178C6" />
+      <rect x="0" y="7" width="55.0" height="4.5" rx="2.2" fill="#3178C6" />
     </g>
     <g transform="translate(680, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#F7DF1E" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">JavaScript</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">625 kB · 26.8%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">626 kB · 26.8%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
       <rect x="0" y="7" width="51.4" height="4.5" rx="2.2" fill="#F7DF1E" />
     </g>
     <g transform="translate(476, 356)">
       <circle cx="5" cy="-4" r="4.5" fill="#239120" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">C#</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">549 kB · 23.5%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">552 kB · 23.6%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="45.1" height="4.5" rx="2.2" fill="#239120" />
+      <rect x="0" y="7" width="45.4" height="4.5" rx="2.2" fill="#239120" />
     </g>
     <g transform="translate(680, 356)">
       <circle cx="5" cy="-4" r="4.5" fill="#00B4AB" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Dart</text>
       <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">435 kB · 18.6%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="35.8" height="4.5" rx="2.2" fill="#00B4AB" />
+      <rect x="0" y="7" width="35.7" height="4.5" rx="2.2" fill="#00B4AB" />
     </g>
     <g transform="translate(476, 392)">
       <circle cx="5" cy="-4" r="4.5" fill="#336791" />
