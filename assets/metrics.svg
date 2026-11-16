@@ -33,7 +33,7 @@
   <!-- Account Overview Right Sub-column -->
   <g class="sans" font-size="12" fill="#C9D1D9">
     <text x="248" y="58">⚡ <tspan dx="4">694 Total Contributions</tspan></text>
-    <text x="248" y="80">📈 <tspan dx="4">667 in Last 12 Months</tspan></text>
+    <text x="248" y="80">📈 <tspan dx="4">666 in Last 12 Months</tspan></text>
     <text x="248" y="104">🔀 <tspan dx="4">109 Issues &amp; Pull Requests</tspan></text>
     <text x="248" y="126">⭐ <tspan dx="4">6 Stargazers · 🍴 1 Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
@@ -240,7 +240,7 @@
   <g class="sans" font-size="12" fill="#C9D1D9">
     <text x="698" y="60">🔥 <tspan dx="4">Current streak: <tspan font-weight="700" fill="#39D353">0 days</tspan></tspan></text>
     <text x="698" y="82">🏆 <tspan dx="4">Best streak: <tspan font-weight="700" fill="#58A6FF">11 days</tspan></tspan></text>
-    <text x="698" y="104">📈 <tspan dx="4">~1.83 commits / day</tspan></text>
+    <text x="698" y="104">📈 <tspan dx="4">~1.82 commits / day</tspan></text>
   </g>
 
   <g>
