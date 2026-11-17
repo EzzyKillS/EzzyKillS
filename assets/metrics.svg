@@ -26,15 +26,15 @@
     <text x="26" y="58">🕒 <tspan dx="4">Joined GitHub 6 years ago</tspan></text>
     <text x="26" y="80">👥 <tspan dx="4">Followed by 2 users</tspan></text>
     <text x="26" y="104" fill="#58A6FF" font-weight="600">📦 <tspan dx="4">10 Repositories (Public &amp; Private)</tspan></text>
-    <text x="26" y="126">🏷️ <tspan dx="4">14 Releases · 238 MB Storage</tspan></text>
-    <text x="26" y="148">± <tspan dx="6" fill="#3FB950" font-weight="600">+317.4k added</tspan>, <tspan fill="#F85149" font-weight="600">-38.0k removed</tspan></text>
+    <text x="26" y="126">🏷️ <tspan dx="4">15 Releases · 238 MB Storage</tspan></text>
+    <text x="26" y="148">± <tspan dx="6" fill="#3FB950" font-weight="600">+305.3k added</tspan>, <tspan fill="#F85149" font-weight="600">-25.2k removed</tspan></text>
   </g>
 
   <!-- Account Overview Right Sub-column -->
   <g class="sans" font-size="12" fill="#C9D1D9">
-    <text x="248" y="58">⚡ <tspan dx="4">817 Total Contributions</tspan></text>
-    <text x="248" y="80">📈 <tspan dx="4">789 in Last 12 Months</tspan></text>
-    <text x="248" y="104">🔀 <tspan dx="4">128 Issues &amp; Pull Requests</tspan></text>
+    <text x="248" y="58">⚡ <tspan dx="4">899 Total Contributions</tspan></text>
+    <text x="248" y="80">📈 <tspan dx="4">871 in Last 12 Months</tspan></text>
+    <text x="248" y="104">🔀 <tspan dx="4">152 Issues &amp; Pull Requests</tspan></text>
     <text x="248" y="126">⭐ <tspan dx="4">6 Stargazers · 🍴 1 Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
   </g>
@@ -47,16 +47,16 @@
 
   
       <rect x="26.0" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="26.0" y="264.0" width="8.4" height="58.0" rx="2.5" fill="#39D353" />
-      <text x="30.2" y="260.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">61</text>
+      <rect x="26.0" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
+      <text x="30.2" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">1</text>
       <text x="30.2" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">00</text>
       <rect x="43.2" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="43.2" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
       <text x="47.4" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">1</text>
       <text x="47.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">01</text>
       <rect x="60.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="60.4" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
-      <text x="64.6" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">4</text>
+      <rect x="60.4" y="315.2" width="8.4" height="6.8" rx="2.5" fill="#0E4429" />
+      <text x="64.6" y="311.2" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">4</text>
       <text x="64.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">02</text>
       <rect x="77.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="77.6" y="320.0" width="8.4" height="2.0" rx="2.5" fill="#1F2335" />
@@ -75,68 +75,68 @@
       
       <text x="133.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">06</text>
       <rect x="146.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="146.4" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
-      <text x="150.6" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">3</text>
+      <rect x="146.4" y="316.9" width="8.4" height="5.1" rx="2.5" fill="#0E4429" />
+      <text x="150.6" y="312.9" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">3</text>
       <text x="150.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">07</text>
       <rect x="163.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="163.6" y="316.3" width="8.4" height="5.7" rx="2.5" fill="#0E4429" />
-      <text x="167.8" y="312.3" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">6</text>
+      <rect x="163.6" y="311.8" width="8.4" height="10.2" rx="2.5" fill="#006D32" />
+      <text x="167.8" y="307.8" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">6</text>
       <text x="167.8" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">08</text>
       <rect x="180.8" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="180.8" y="317.2" width="8.4" height="4.8" rx="2.5" fill="#0E4429" />
-      <text x="185.0" y="313.2" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">5</text>
+      <rect x="180.8" y="313.5" width="8.4" height="8.5" rx="2.5" fill="#0E4429" />
+      <text x="185.0" y="309.5" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">5</text>
       <text x="185.0" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">09</text>
       <rect x="198.0" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="198.0" y="312.5" width="8.4" height="9.5" rx="2.5" fill="#006D32" />
-      <text x="202.2" y="308.5" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">10</text>
+      <rect x="198.0" y="304.9" width="8.4" height="17.1" rx="2.5" fill="#006D32" />
+      <text x="202.2" y="300.9" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">10</text>
       <text x="202.2" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">10</text>
       <rect x="215.2" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="215.2" y="315.3" width="8.4" height="6.7" rx="2.5" fill="#0E4429" />
-      <text x="219.4" y="311.3" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">7</text>
+      <rect x="215.2" y="310.1" width="8.4" height="11.9" rx="2.5" fill="#006D32" />
+      <text x="219.4" y="306.1" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">7</text>
       <text x="219.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">11</text>
       <rect x="232.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="232.4" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
-      <text x="236.6" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">3</text>
+      <rect x="232.4" y="316.9" width="8.4" height="5.1" rx="2.5" fill="#0E4429" />
+      <text x="236.6" y="312.9" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">3</text>
       <text x="236.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">12</text>
       <rect x="249.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="249.6" y="317.2" width="8.4" height="4.8" rx="2.5" fill="#0E4429" />
-      <text x="253.8" y="313.2" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">5</text>
+      <rect x="249.6" y="287.9" width="8.4" height="34.1" rx="2.5" fill="#26A641" />
+      <text x="253.8" y="283.9" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">20</text>
       <text x="253.8" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">13</text>
       <rect x="266.8" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="266.8" y="309.6" width="8.4" height="12.4" rx="2.5" fill="#006D32" />
-      <text x="271.0" y="305.6" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">13</text>
+      <rect x="266.8" y="264.0" width="8.4" height="58.0" rx="2.5" fill="#39D353" />
+      <text x="271.0" y="260.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">34</text>
       <text x="271.0" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">14</text>
       <rect x="284.0" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="284.0" y="313.4" width="8.4" height="8.6" rx="2.5" fill="#0E4429" />
-      <text x="288.2" y="309.4" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">9</text>
+      <rect x="284.0" y="272.5" width="8.4" height="49.5" rx="2.5" fill="#39D353" />
+      <text x="288.2" y="268.5" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">29</text>
       <text x="288.2" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">15</text>
       <rect x="301.2" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="301.2" y="306.8" width="8.4" height="15.2" rx="2.5" fill="#006D32" />
-      <text x="305.4" y="302.8" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">16</text>
+      <rect x="301.2" y="287.9" width="8.4" height="34.1" rx="2.5" fill="#26A641" />
+      <text x="305.4" y="283.9" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">20</text>
       <text x="305.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">16</text>
       <rect x="318.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="318.4" y="305.8" width="8.4" height="16.2" rx="2.5" fill="#006D32" />
-      <text x="322.6" y="301.8" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">17</text>
+      <rect x="318.4" y="293.0" width="8.4" height="29.0" rx="2.5" fill="#26A641" />
+      <text x="322.6" y="289.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">17</text>
       <text x="322.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">17</text>
       <rect x="335.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="335.6" y="299.2" width="8.4" height="22.8" rx="2.5" fill="#006D32" />
-      <text x="339.8" y="295.2" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">24</text>
+      <rect x="335.6" y="281.1" width="8.4" height="40.9" rx="2.5" fill="#26A641" />
+      <text x="339.8" y="277.1" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">24</text>
       <text x="339.8" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">18</text>
       <rect x="352.8" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="352.8" y="309.6" width="8.4" height="12.4" rx="2.5" fill="#006D32" />
-      <text x="357.0" y="305.6" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">13</text>
+      <rect x="352.8" y="299.8" width="8.4" height="22.2" rx="2.5" fill="#006D32" />
+      <text x="357.0" y="295.8" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">13</text>
       <text x="357.0" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">19</text>
       <rect x="370.0" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="370.0" y="315.3" width="8.4" height="6.7" rx="2.5" fill="#0E4429" />
-      <text x="374.2" y="311.3" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">7</text>
+      <rect x="370.0" y="310.1" width="8.4" height="11.9" rx="2.5" fill="#006D32" />
+      <text x="374.2" y="306.1" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">7</text>
       <text x="374.2" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">20</text>
       <rect x="387.2" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="387.2" y="305.8" width="8.4" height="16.2" rx="2.5" fill="#006D32" />
-      <text x="391.4" y="301.8" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">17</text>
+      <rect x="387.2" y="293.0" width="8.4" height="29.0" rx="2.5" fill="#26A641" />
+      <text x="391.4" y="289.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">17</text>
       <text x="391.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">21</text>
       <rect x="404.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="404.4" y="303.9" width="8.4" height="18.1" rx="2.5" fill="#006D32" />
-      <text x="408.6" y="299.9" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">19</text>
+      <rect x="404.4" y="289.6" width="8.4" height="32.4" rx="2.5" fill="#26A641" />
+      <text x="408.6" y="285.6" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">19</text>
       <text x="408.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">22</text>
       <rect x="421.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="421.6" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
@@ -148,46 +148,46 @@
 
   
       <rect x="28" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="28" y="436.1" width="11" height="11.9" rx="3" fill="#006D32" />
-      <text x="33.5" y="432.1" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">52</text>
+      <rect x="28" y="436.4" width="11" height="11.6" rx="3" fill="#006D32" />
+      <text x="33.5" y="432.4" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">52</text>
       <text x="33.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Sun</text>
       <rect x="55" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="55" y="418.1" width="11" height="29.9" rx="3" fill="#26A641" />
-      <text x="60.5" y="414.1" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">131</text>
+      <rect x="55" y="418.8" width="11" height="29.2" rx="3" fill="#26A641" />
+      <text x="60.5" y="414.8" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">131</text>
       <text x="60.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Mon</text>
       <rect x="82" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="82" y="415.6" width="11" height="32.4" rx="3" fill="#26A641" />
-      <text x="87.5" y="411.6" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">142</text>
+      <rect x="82" y="398.0" width="11" height="50.0" rx="3" fill="#39D353" />
+      <text x="87.5" y="394.0" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">224</text>
       <text x="87.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Tue</text>
       <rect x="109" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="109" y="433.2" width="11" height="14.8" rx="3" fill="#006D32" />
-      <text x="114.5" y="429.2" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">65</text>
+      <rect x="109" y="433.5" width="11" height="14.5" rx="3" fill="#006D32" />
+      <text x="114.5" y="429.5" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">65</text>
       <text x="114.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Wed</text>
       <rect x="136" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="136" y="435.2" width="11" height="12.8" rx="3" fill="#006D32" />
-      <text x="141.5" y="431.2" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">56</text>
+      <rect x="136" y="435.5" width="11" height="12.5" rx="3" fill="#006D32" />
+      <text x="141.5" y="431.5" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">56</text>
       <text x="141.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Thu</text>
       <rect x="163" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="163" y="419.7" width="11" height="28.3" rx="3" fill="#26A641" />
-      <text x="168.5" y="415.7" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">124</text>
+      <rect x="163" y="420.3" width="11" height="27.7" rx="3" fill="#26A641" />
+      <text x="168.5" y="416.3" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">124</text>
       <text x="168.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Fri</text>
       <rect x="190" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="190" y="398.0" width="11" height="50.0" rx="3" fill="#39D353" />
-      <text x="195.5" y="394.0" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">219</text>
+      <rect x="190" y="399.1" width="11" height="48.9" rx="3" fill="#39D353" />
+      <text x="195.5" y="395.1" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">219</text>
       <text x="195.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Sat</text>
   
-      <text x="234" y="398" class="sans" font-size="10.5" fill="#A9B1D6">TypeScript</text>
+      <text x="234" y="398" class="sans" font-size="10.5" fill="#A9B1D6">JavaScript</text>
       <rect x="298" y="390" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="390" width="33.2" height="6.5" rx="3" fill="#3178C6" />
-      <text x="436" y="398" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">27%</text>
-      <text x="234" y="421" class="sans" font-size="10.5" fill="#A9B1D6">JavaScript</text>
+      <rect x="298" y="390" width="35.6" height="6.5" rx="3" fill="#F7DF1E" />
+      <text x="436" y="398" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">29%</text>
+      <text x="234" y="421" class="sans" font-size="10.5" fill="#A9B1D6">TypeScript</text>
       <rect x="298" y="413" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="413" width="32.9" height="6.5" rx="3" fill="#F7DF1E" />
-      <text x="436" y="421" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">27%</text>
+      <rect x="298" y="413" width="31.2" height="6.5" rx="3" fill="#3178C6" />
+      <text x="436" y="421" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">25%</text>
       <text x="234" y="444" class="sans" font-size="10.5" fill="#A9B1D6">Dart</text>
       <rect x="298" y="436" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="436" width="27.7" height="6.5" rx="3" fill="#00B4AB" />
-      <text x="436" y="444" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">22%</text>
+      <rect x="298" y="436" width="28.7" height="6.5" rx="3" fill="#00B4AB" />
+      <text x="436" y="444" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">23%</text>
 
   <line x1="24" y1="474" x2="438" y2="474" stroke="#21262D" stroke-width="1" />
 
@@ -240,7 +240,7 @@
   <g class="sans" font-size="12" fill="#C9D1D9">
     <text x="698" y="60">🔥 <tspan dx="4">Current streak: <tspan font-weight="700" fill="#39D353">2 days</tspan></tspan></text>
     <text x="698" y="82">🏆 <tspan dx="4">Best streak: <tspan font-weight="700" fill="#58A6FF">11 days</tspan></tspan></text>
-    <text x="698" y="104">📈 <tspan dx="4">~2.16 commits / day</tspan></text>
+    <text x="698" y="104">📈 <tspan dx="4">~2.39 commits / day</tspan></text>
   </g>
 
   <g>
@@ -466,41 +466,41 @@
   </clipPath>
   <rect x="476" y="286" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#rLangClip)">
-    <rect x="476.0" y="286" width="107.4" height="10" fill="#3178C6" />
-    <rect x="583.4" y="286" width="106.3" height="10" fill="#F7DF1E" />
-    <rect x="689.7" y="286" width="89.5" height="10" fill="#00B4AB" />
-    <rect x="779.2" y="286" width="88.7" height="10" fill="#239120" />
-    <rect x="867.9" y="286" width="4.0" height="10" fill="#336791" />
-    <rect x="871.9" y="286" width="2.1" height="10" fill="#DEA584" />
+    <rect x="476.0" y="286" width="115.1" height="10" fill="#F7DF1E" />
+    <rect x="591.1" y="286" width="100.9" height="10" fill="#3178C6" />
+    <rect x="692.1" y="286" width="92.8" height="10" fill="#00B4AB" />
+    <rect x="784.9" y="286" width="83.3" height="10" fill="#239120" />
+    <rect x="868.2" y="286" width="4.0" height="10" fill="#336791" />
+    <rect x="872.2" y="286" width="2.0" height="10" fill="#DEA584" />
   </g>
   
     <g transform="translate(476, 320)">
-      <circle cx="5" cy="-4" r="4.5" fill="#3178C6" />
-      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">TypeScript</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">669 kB · 26.8%</text>
-      <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="51.4" height="4.5" rx="2.2" fill="#3178C6" />
-    </g>
-    <g transform="translate(680, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#F7DF1E" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">JavaScript</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">662 kB · 26.5%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">764 kB · 28.7%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="50.9" height="4.5" rx="2.2" fill="#F7DF1E" />
+      <rect x="0" y="7" width="55.2" height="4.5" rx="2.2" fill="#F7DF1E" />
+    </g>
+    <g transform="translate(680, 320)">
+      <circle cx="5" cy="-4" r="4.5" fill="#3178C6" />
+      <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">TypeScript</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">669 kB · 25.2%</text>
+      <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
+      <rect x="0" y="7" width="48.4" height="4.5" rx="2.2" fill="#3178C6" />
     </g>
     <g transform="translate(476, 356)">
       <circle cx="5" cy="-4" r="4.5" fill="#00B4AB" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Dart</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">558 kB · 22.3%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">616 kB · 23.2%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="42.9" height="4.5" rx="2.2" fill="#00B4AB" />
+      <rect x="0" y="7" width="44.5" height="4.5" rx="2.2" fill="#00B4AB" />
     </g>
     <g transform="translate(680, 356)">
       <circle cx="5" cy="-4" r="4.5" fill="#239120" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">C#</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">552 kB · 22.1%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">552 kB · 20.8%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="42.5" height="4.5" rx="2.2" fill="#239120" />
+      <rect x="0" y="7" width="39.9" height="4.5" rx="2.2" fill="#239120" />
     </g>
     <g transform="translate(476, 392)">
       <circle cx="5" cy="-4" r="4.5" fill="#336791" />
@@ -512,7 +512,7 @@
     <g transform="translate(680, 392)">
       <circle cx="5" cy="-4" r="4.5" fill="#DEA584" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Rust</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">17 kB · 0.7%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">17 kB · 0.6%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
       <rect x="0" y="7" width="4.0" height="4.5" rx="2.2" fill="#DEA584" />
     </g>
@@ -523,44 +523,44 @@
   <text x="476" y="466" class="sans" font-size="14" font-weight="700" fill="#58A6FF">🎟️ Follow-up of issues and pull requests</text>
 
   <!-- Issues Follow-up -->
-  <text x="476" y="498" class="sans" font-size="12" font-weight="600" fill="#C9D1D9">Issues <tspan fill="#8B949E" font-weight="400" font-size="11">(83 total)</tspan></text>
-  <text x="874" y="498" text-anchor="end" class="mono" font-size="10.5" fill="#8B949E">87% resolved</text>
+  <text x="476" y="498" class="sans" font-size="12" font-weight="600" fill="#C9D1D9">Issues <tspan fill="#8B949E" font-weight="400" font-size="11">(85 total)</tspan></text>
+  <text x="874" y="498" text-anchor="end" class="mono" font-size="10.5" fill="#8B949E">92% resolved</text>
   
   <clipPath id="issuesClip">
     <rect x="476" y="514" width="398" height="10" rx="5" />
   </clipPath>
   <rect x="476" y="514" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#issuesClip)">
-    <rect x="476.0" y="514" width="52.7" height="10" fill="#238636" />
-    <rect x="528.7" y="514" width="345.3" height="10" fill="#8957E5" />
+    <rect x="476.0" y="514" width="32.8" height="10" fill="#238636" />
+    <rect x="508.8" y="514" width="365.2" height="10" fill="#8957E5" />
   </g>
   <g transform="translate(476, 540)" class="sans" font-size="11" fill="#8B949E">
     <circle cx="5" cy="-4" r="4" fill="#238636" />
-    <text x="14" y="0"><tspan fill="#C9D1D9" font-weight="600">11</tspan> Open</text>
+    <text x="14" y="0"><tspan fill="#C9D1D9" font-weight="600">7</tspan> Open</text>
     <circle cx="95" cy="-4" r="4" fill="#8957E5" />
-    <text x="104" y="0"><tspan fill="#C9D1D9" font-weight="600">72</tspan> Closed / Completed</text>
+    <text x="104" y="0"><tspan fill="#C9D1D9" font-weight="600">78</tspan> Closed / Completed</text>
     <circle cx="245" cy="-4" r="4" fill="#30363D" />
     <text x="254" y="0"><tspan fill="#C9D1D9" font-weight="600">0</tspan> Skipped</text>
   </g>
 
   <!-- Pull Requests Follow-up -->
-  <text x="476" y="576" class="sans" font-size="12" font-weight="600" fill="#C9D1D9">Pull requests <tspan fill="#8B949E" font-weight="400" font-size="11">(45 total)</tspan></text>
-  <text x="874" y="576" text-anchor="end" class="mono" font-size="10.5" fill="#8B949E">96% merged</text>
+  <text x="476" y="576" class="sans" font-size="12" font-weight="600" fill="#C9D1D9">Pull requests <tspan fill="#8B949E" font-weight="400" font-size="11">(67 total)</tspan></text>
+  <text x="874" y="576" text-anchor="end" class="mono" font-size="10.5" fill="#8B949E">97% merged</text>
   
   <clipPath id="prsClip">
     <rect x="476" y="592" width="398" height="10" rx="5" />
   </clipPath>
   <rect x="476" y="592" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#prsClip)">
-    <rect x="476.0" y="592" width="8.8" height="10" fill="#238636" />
-    <rect x="484.8" y="592" width="380.3" height="10" fill="#8957E5" />
-    <rect x="865.2" y="592" width="8.8" height="10" fill="#DA3633" />
+    <rect x="476.0" y="592" width="5.9" height="10" fill="#238636" />
+    <rect x="481.9" y="592" width="386.1" height="10" fill="#8957E5" />
+    <rect x="868.1" y="592" width="5.9" height="10" fill="#DA3633" />
   </g>
   <g transform="translate(476, 618)" class="sans" font-size="11" fill="#8B949E">
     <circle cx="5" cy="-4" r="4" fill="#238636" />
     <text x="14" y="0"><tspan fill="#C9D1D9" font-weight="600">1</tspan> Open</text>
     <circle cx="95" cy="-4" r="4" fill="#8957E5" />
-    <text x="104" y="0"><tspan fill="#C9D1D9" font-weight="600">43</tspan> Merged</text>
+    <text x="104" y="0"><tspan fill="#C9D1D9" font-weight="600">65</tspan> Merged</text>
     <circle cx="195" cy="-4" r="4" fill="#DA3633" />
     <text x="204" y="0"><tspan fill="#C9D1D9" font-weight="600">1</tspan> Closed</text>
     <circle cx="285" cy="-4" r="4" fill="#30363D" />
