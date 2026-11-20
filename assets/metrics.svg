@@ -26,15 +26,15 @@
     <text x="26" y="58">🕒 <tspan dx="4">Joined GitHub 6 years ago</tspan></text>
     <text x="26" y="80">👥 <tspan dx="4">Followed by 2 users</tspan></text>
     <text x="26" y="104" fill="#58A6FF" font-weight="600">📦 <tspan dx="4">10 Repositories (Public &amp; Private)</tspan></text>
-    <text x="26" y="126">🏷️ <tspan dx="4">18 Releases · 238 MB Storage</tspan></text>
-    <text x="26" y="148">± <tspan dx="6" fill="#3FB950" font-weight="600">+307.1k added</tspan>, <tspan fill="#F85149" font-weight="600">-26.6k removed</tspan></text>
+    <text x="26" y="126">🏷️ <tspan dx="4">19 Releases · 239 MB Storage</tspan></text>
+    <text x="26" y="148">± <tspan dx="6" fill="#3FB950" font-weight="600">+306.9k added</tspan>, <tspan fill="#F85149" font-weight="600">-26.6k removed</tspan></text>
   </g>
 
   <!-- Account Overview Right Sub-column -->
   <g class="sans" font-size="12" fill="#C9D1D9">
-    <text x="248" y="58">⚡ <tspan dx="4">937 Total Contributions</tspan></text>
-    <text x="248" y="80">📈 <tspan dx="4">909 in Last 12 Months</tspan></text>
-    <text x="248" y="104">🔀 <tspan dx="4">160 Issues &amp; Pull Requests</tspan></text>
+    <text x="248" y="58">⚡ <tspan dx="4">940 Total Contributions</tspan></text>
+    <text x="248" y="80">📈 <tspan dx="4">912 in Last 12 Months</tspan></text>
+    <text x="248" y="104">🔀 <tspan dx="4">161 Issues &amp; Pull Requests</tspan></text>
     <text x="248" y="126">⭐ <tspan dx="4">6 Stargazers · 🍴 1 Active Forks</tspan></text>
     <text x="248" y="148">🌍 <tspan dx="4">Poland (Europe/Warsaw)</tspan></text>
   </g>
@@ -103,8 +103,8 @@
       <text x="253.8" y="308.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">5</text>
       <text x="253.8" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">13</text>
       <rect x="266.8" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="266.8" y="284.0" width="8.4" height="38.0" rx="2.5" fill="#26A641" />
-      <text x="271.0" y="280.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">19</text>
+      <rect x="266.8" y="288.0" width="8.4" height="34.0" rx="2.5" fill="#26A641" />
+      <text x="271.0" y="284.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">17</text>
       <text x="271.0" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">14</text>
       <rect x="284.0" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="284.0" y="264.0" width="8.4" height="58.0" rx="2.5" fill="#39D353" />
@@ -135,12 +135,12 @@
       <text x="391.4" y="270.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">24</text>
       <text x="391.4" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">21</text>
       <rect x="404.4" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
-      <rect x="404.4" y="284.0" width="8.4" height="38.0" rx="2.5" fill="#26A641" />
-      <text x="408.6" y="280.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">19</text>
+      <rect x="404.4" y="282.0" width="8.4" height="40.0" rx="2.5" fill="#26A641" />
+      <text x="408.6" y="278.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">20</text>
       <text x="408.6" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">22</text>
       <rect x="421.6" y="264.0" width="8.4" height="58" rx="2.5" fill="#131622" />
       <rect x="421.6" y="318.0" width="8.4" height="4.0" rx="2.5" fill="#0E4429" />
-      <text x="425.8" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">1</text>
+      <text x="425.8" y="314.0" text-anchor="middle" class="mono" font-size="7.5" fill="#7D8590">2</text>
       <text x="425.8" y="335" text-anchor="middle" class="mono" font-size="8" fill="#565F89">23</text>
 
   <text x="115" y="366" text-anchor="middle" class="sans" font-size="11.5" font-weight="600" fill="#58A6FF">Commit activity per day</text>
@@ -164,8 +164,8 @@
       <text x="114.5" y="429.5" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">65</text>
       <text x="114.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Wed</text>
       <rect x="136" y="398" width="11" height="50" rx="3" fill="#131622" />
-      <rect x="136" y="427.0" width="11" height="21.0" rx="3" fill="#006D32" />
-      <text x="141.5" y="423.0" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">94</text>
+      <rect x="136" y="426.3" width="11" height="21.7" rx="3" fill="#006D32" />
+      <text x="141.5" y="422.3" text-anchor="middle" class="mono" font-size="8" fill="#7D8590">97</text>
       <text x="141.5" y="461" text-anchor="middle" class="sans" font-size="8.5" fill="#565F89">Thu</text>
       <rect x="163" y="398" width="11" height="50" rx="3" fill="#131622" />
       <rect x="163" y="420.3" width="11" height="27.7" rx="3" fill="#26A641" />
@@ -178,15 +178,15 @@
   
       <text x="234" y="398" class="sans" font-size="10.5" fill="#A9B1D6">JavaScript</text>
       <rect x="298" y="390" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="390" width="35.5" height="6.5" rx="3" fill="#F7DF1E" />
+      <rect x="298" y="390" width="36.1" height="6.5" rx="3" fill="#F7DF1E" />
       <text x="436" y="398" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">29%</text>
       <text x="234" y="421" class="sans" font-size="10.5" fill="#A9B1D6">Dart</text>
       <rect x="298" y="413" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="413" width="30.5" height="6.5" rx="3" fill="#00B4AB" />
-      <text x="436" y="421" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">25%</text>
+      <rect x="298" y="413" width="30.3" height="6.5" rx="3" fill="#00B4AB" />
+      <text x="436" y="421" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">24%</text>
       <text x="234" y="444" class="sans" font-size="10.5" fill="#A9B1D6">TypeScript</text>
       <rect x="298" y="436" width="124" height="6.5" rx="3" fill="#131622" />
-      <rect x="298" y="436" width="30.1" height="6.5" rx="3" fill="#3178C6" />
+      <rect x="298" y="436" width="29.9" height="6.5" rx="3" fill="#3178C6" />
       <text x="436" y="444" text-anchor="end" class="mono" font-size="9.5" fill="#7D8590">24%</text>
 
   <line x1="24" y1="474" x2="438" y2="474" stroke="#21262D" stroke-width="1" />
@@ -240,7 +240,7 @@
   <g class="sans" font-size="12" fill="#C9D1D9">
     <text x="698" y="60">🔥 <tspan dx="4">Current streak: <tspan font-weight="700" fill="#39D353">1 day</tspan></tspan></text>
     <text x="698" y="82">🏆 <tspan dx="4">Best streak: <tspan font-weight="700" fill="#58A6FF">11 days</tspan></tspan></text>
-    <text x="698" y="104">📈 <tspan dx="4">~2.49 commits / day</tspan></text>
+    <text x="698" y="104">📈 <tspan dx="4">~2.50 commits / day</tspan></text>
   </g>
 
   <g>
@@ -466,10 +466,10 @@
   </clipPath>
   <rect x="476" y="286" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#rLangClip)">
-    <rect x="476.0" y="286" width="115.0" height="10" fill="#F7DF1E" />
-    <rect x="591.0" y="286" width="98.7" height="10" fill="#00B4AB" />
-    <rect x="689.6" y="286" width="97.2" height="10" fill="#3178C6" />
-    <rect x="786.9" y="286" width="80.2" height="10" fill="#239120" />
+    <rect x="476.0" y="286" width="116.6" height="10" fill="#F7DF1E" />
+    <rect x="592.6" y="286" width="98.1" height="10" fill="#00B4AB" />
+    <rect x="690.7" y="286" width="96.6" height="10" fill="#3178C6" />
+    <rect x="787.3" y="286" width="79.7" height="10" fill="#239120" />
     <rect x="867.1" y="286" width="4.0" height="10" fill="#A97BFF" />
     <rect x="871.1" y="286" width="2.9" height="10" fill="#336791" />
   </g>
@@ -477,30 +477,30 @@
     <g transform="translate(476, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#F7DF1E" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">JavaScript</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">792 kB · 28.7%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">808 kB · 29.1%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="55.0" height="4.5" rx="2.2" fill="#F7DF1E" />
+      <rect x="0" y="7" width="55.9" height="4.5" rx="2.2" fill="#F7DF1E" />
     </g>
     <g transform="translate(680, 320)">
       <circle cx="5" cy="-4" r="4.5" fill="#00B4AB" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">Dart</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">680 kB · 24.6%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">680 kB · 24.5%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="47.3" height="4.5" rx="2.2" fill="#00B4AB" />
+      <rect x="0" y="7" width="47.0" height="4.5" rx="2.2" fill="#00B4AB" />
     </g>
     <g transform="translate(476, 356)">
       <circle cx="5" cy="-4" r="4.5" fill="#3178C6" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">TypeScript</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">669 kB · 24.2%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">669 kB · 24.1%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="46.5" height="4.5" rx="2.2" fill="#3178C6" />
+      <rect x="0" y="7" width="46.3" height="4.5" rx="2.2" fill="#3178C6" />
     </g>
     <g transform="translate(680, 356)">
       <circle cx="5" cy="-4" r="4.5" fill="#239120" />
       <text x="15" y="0" class="sans" font-size="12" font-weight="600" fill="#E2E8F0">C#</text>
-      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">552 kB · 20.0%</text>
+      <text x="192" y="0" text-anchor="end" class="mono" font-size="10.5" font-weight="600" fill="#A9B1D6">552 kB · 19.9%</text>
       <rect x="0" y="7" width="192" height="4.5" rx="2.2" fill="#131622" />
-      <rect x="0" y="7" width="38.4" height="4.5" rx="2.2" fill="#239120" />
+      <rect x="0" y="7" width="38.2" height="4.5" rx="2.2" fill="#239120" />
     </g>
     <g transform="translate(476, 392)">
       <circle cx="5" cy="-4" r="4.5" fill="#A97BFF" />
@@ -544,7 +544,7 @@
   </g>
 
   <!-- Pull Requests Follow-up -->
-  <text x="476" y="576" class="sans" font-size="12" font-weight="600" fill="#C9D1D9">Pull requests <tspan fill="#8B949E" font-weight="400" font-size="11">(75 total)</tspan></text>
+  <text x="476" y="576" class="sans" font-size="12" font-weight="600" fill="#C9D1D9">Pull requests <tspan fill="#8B949E" font-weight="400" font-size="11">(76 total)</tspan></text>
   <text x="874" y="576" text-anchor="end" class="mono" font-size="10.5" fill="#8B949E">97% merged</text>
   
   <clipPath id="prsClip">
@@ -552,15 +552,15 @@
   </clipPath>
   <rect x="476" y="592" width="398" height="10" rx="5" fill="#161B22" />
   <g clip-path="url(#prsClip)">
-    <rect x="476.0" y="592" width="5.3" height="10" fill="#238636" />
-    <rect x="481.3" y="592" width="387.4" height="10" fill="#8957E5" />
-    <rect x="868.7" y="592" width="5.3" height="10" fill="#DA3633" />
+    <rect x="476.0" y="592" width="5.2" height="10" fill="#238636" />
+    <rect x="481.2" y="592" width="387.5" height="10" fill="#8957E5" />
+    <rect x="868.8" y="592" width="5.2" height="10" fill="#DA3633" />
   </g>
   <g transform="translate(476, 618)" class="sans" font-size="11" fill="#8B949E">
     <circle cx="5" cy="-4" r="4" fill="#238636" />
     <text x="14" y="0"><tspan fill="#C9D1D9" font-weight="600">1</tspan> Open</text>
     <circle cx="95" cy="-4" r="4" fill="#8957E5" />
-    <text x="104" y="0"><tspan fill="#C9D1D9" font-weight="600">73</tspan> Merged</text>
+    <text x="104" y="0"><tspan fill="#C9D1D9" font-weight="600">74</tspan> Merged</text>
     <circle cx="195" cy="-4" r="4" fill="#DA3633" />
     <text x="204" y="0"><tspan fill="#C9D1D9" font-weight="600">1</tspan> Closed</text>
     <circle cx="285" cy="-4" r="4" fill="#30363D" />
